@@ -1,5 +1,5 @@
----
-layout: slide
-title: "Welcome to the second slide!"
----
-Hello :)
+---*
+layout: slideeeees
+title: "Welcome to the second slide after changes!"
+---*
+Hello >:)
